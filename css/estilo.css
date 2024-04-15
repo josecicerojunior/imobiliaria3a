@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  font-family: Tahoma;
+}
+
+.secao {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.banner {
+  padding-top: 0 ;
+  margin-top: 50px; 
+}
+.imagem {
+  width: 450px;
+}
+.texto-azul{
+  color: #1d80c1;
+  font-weight:bold;
+}
+.texto-amarelo{
+  color: #fff81b;
+  font-weight: bold;
+}
+.paragrafo-servicos {
+  color: #ffffff;
+  line-height: 42px;
+  width: 700px;
+  font-size: 22px;
+  text-align: center;
+}
+.servicos, .contato {
+  background-color: #1d80c1;
+}
+h3{
+  color: #ffffff;
+  font-size: 28px;
+  line-height:42px;
+}
+.paragrafo-sobre {
+  /* color: #ffffff; */
+  line-height: 42px;
+  width: 700px;
+  font-size: 22px;
+  text-align: center;
+}
+
+.paragrafo {
+  font-size: 18px;
+  text-align: center;
+  line-height: 28px;
+  margin: 10px auto;
+  width: 980px;  
+}
+.link-topo {
+      text-decoration: none;
+      font-size: 18px;
+      color:#1d1d1d;
+      margin: 0 10px;
+      border-bottom: 2px solid #1d1d1d;
+}
+.link-topo:hover{
+  color:rgb(175, 113, 33);
+
+}
+.topo {
+  background-color: #afddfb;
+}
+
+.listas-servicos{
+    width: 135px;
+    margin: 40px auto 40px;
+}
+.item-listas-servicos{
+    font-size: 22px; n
+    line-height: 42px;
+    text-align: left;
+    color: #fff; 
+}
+/* SEÇÃO CORRETORES */
+.link {
+  font-weight: bold;
+  font-size: 22px;
+}
+.link:hover{
+  color:rgb(175, 113, 33);
+}
+
+
+
+
